@@ -10,7 +10,7 @@ In this project we will talk about:
 
 
 
-[<img src="C:\Users\Laptop_MP1KGT9G\Desktop\Vagrant by HashiCorp_files\logo-vagrant-a7ab5898.svg" style="zoom:150%;" />](https://github.com/Derhks/holbertonschool-zero_day/tree/master/0x00-vagrant)
+[<img src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png" alt="Resultado de imagen para logo vagrant" width="140px" />](https://github.com/Derhks/holbertonschool-zero_day/tree/master/0x00-vagrant)
 
 
 
@@ -64,7 +64,7 @@ In this project we will talk about:
 
 
 
-[<img src="https://www.vim.org/images/vim_editor.gif" alt="img" style="zoom:150%;" />](https://github.com/Derhks/holbertonschool-zero_day/tree/master/0x02-vi)
+[<img src="https://www.vim.org/images/vim_editor.gif" alt="img" width="250px" />](https://github.com/Derhks/holbertonschool-zero_day/tree/master/0x02-vi)
 
 
 
@@ -81,9 +81,7 @@ In this project we will talk about:
 
 
 
-
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="GitHub Logotype" style="zoom: 33%;" />](https://github.com/Derhks/holbertonschool-zero_day/tree/master/0x03-git)
-
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="GitHub Logotype" width="340px" />](https://github.com/Derhks/holbertonschool-zero_day/tree/master/0x03-git)
 
 
 - What is source code management?
@@ -102,4 +100,4 @@ In this project we will talk about:
 
 
 
-* **Julián Sandoval** [<img src="https://i.blogs.es/3c991e/twitter-bird/450_1000.png" alt="Resultado de imagen para logo twitter" style="zoom: 10%;" />](https://twitter.com/Derhks) 
+* **Julián Sandoval** [<img src="https://i.blogs.es/3c991e/twitter-bird/450_1000.png" alt="Resultado de imagen para logo twitter" width="40px"/>](https://twitter.com/Derhks) 
