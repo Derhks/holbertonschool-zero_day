@@ -1,5 +1,4 @@
-# **HOLBERTON SCHOLL ZERO DAY**
-
+# **HOLBERTON SCHOOL ZERO DAY**
 
 
 You can go directly to the directory by clicking on the image.
@@ -7,11 +6,7 @@ You can go directly to the directory by clicking on the image.
 In this project we will talk about:
 
 
-
-
-
 [<img src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png" alt="Resultado de imagen para logo vagrant" width="140px" />](https://github.com/Derhks/holbertonschool-zero_day/tree/master/0x00-vagrant)
-
 
 
 - What is a zero-day?
@@ -35,11 +30,7 @@ In this project we will talk about:
 - What is the difference between Git and GitHub?
 
 
-
-
-
   [<img src="https://www.gnu.org/software/emacs/images/emacs.png" alt="Emacs" style="zoom:80%;" />](https://github.com/Derhks/holbertonschool-zero_day/tree/master/0x01-emacs)
-
 
 
 - What is Emacs?
@@ -61,11 +52,7 @@ In this project we will talk about:
 - How to quit Emacs?
 
 
-
-
-
 [<img src="https://www.vim.org/images/vim_editor.gif" alt="img" width="250px" />](https://github.com/Derhks/holbertonschool-zero_day/tree/master/0x02-vi)
-
 
 
 - What is vi?
@@ -77,8 +64,6 @@ In this project we will talk about:
 - How to search forward and backward?
 - How to undo?
 - How to quit vi?
-
-
 
 
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="GitHub Logotype" width="340px" />](https://github.com/Derhks/holbertonschool-zero_day/tree/master/0x03-git)
@@ -95,9 +80,7 @@ In this project we will talk about:
 - How to merge branches?
 
 
-
 ## Authors
-
 
 
 * **Julián Sandoval** [<img src="https://i.blogs.es/3c991e/twitter-bird/450_1000.png" alt="Resultado de imagen para logo twitter" width="40px"/>](https://twitter.com/Derhks) 
